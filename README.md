@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0507-perfect-number](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
