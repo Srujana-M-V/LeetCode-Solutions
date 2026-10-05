@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -33,8 +34,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Srujana-M-V/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
