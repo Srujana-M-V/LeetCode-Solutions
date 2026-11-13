@@ -1,18 +1,18 @@
 class Solution(object):
     def reverse(self, x):
+        rev = 0
+
         sign = -1 if x < 0 else 1
         x = abs(x)
-        reversed_num = 0
 
-        while x != 0:
-            digit = x % 10
-            reversed_num = reversed_num * 10 + digit
-            x //= 10
+        while(x != 0):
+            a = x % 10
+            rev = rev * 10 + a
+            x = x // 10
 
-        reversed_num *= sign
+        rev = rev * sign
 
-        if reversed_num < -(2**31) or reversed_num > 2**31 - 1:
+        if rev < -(2**31) or rev > (2**31 - 1):
             return 0
 
-        return reversed_num
-        
+        return rev
